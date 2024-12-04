@@ -12,7 +12,7 @@ tags = ["Megalovania was from Homestuck"]
 toc = true
 +++
 
-# Hiveswap, c'est quoi ?
+## Hiveswap, c'est quoi ?
 
 <!-- Code en HTML --> 
 
@@ -20,6 +20,6 @@ toc = true
 <a href="https://store.steampowered.com/app/623940/HIVESWAP_ACT_1/" rel="noreferrer">Steam</a>. <br></p>
 
 
-# Des bangers de sons
+## Des bangers de sons
 
 Parce que la BO reprend les musiques **iconiques** du webcomic, certaines créées par Toby *Radiation* Fox (ne l'appelez pas comme ça ou il vous tapera).
