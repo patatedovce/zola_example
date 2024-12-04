@@ -8,6 +8,36 @@
     <updated>2024-12-04T00:00:00+00:00</updated>
     <id>https://patatedovce.github.io/zola_example/atom.xml</id>
     <entry xml:lang="en">
+        <title>Hiveswap</title>
+        <published>2024-12-04T00:00:00+00:00</published>
+        <updated>2024-12-04T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://patatedovce.github.io/zola_example/homestuck/"/>
+        <id>https://patatedovce.github.io/zola_example/homestuck/</id>
+        
+        <content type="html" xml:base="https://patatedovce.github.io/zola_example/homestuck/">&lt;h1 id=&quot;hiveswap-c-est-quoi&quot;&gt;Hiveswap, c&#x27;est quoi ?&lt;&#x2F;h1&gt;
+&lt;!-- Code en HTML --&gt; 
+&lt;p&gt; Hiveswap est un jeu développé par What Pumpkin Games et supervisé par Andrew Hussie, auteur original du web-comic Homestuck. Il est disponible sur 
+&lt;a href=&quot;https:&#x2F;&#x2F;store.steampowered.com&#x2F;app&#x2F;623940&#x2F;HIVESWAP_ACT_1&#x2F;&quot; rel=&quot;noreferrer&quot;&gt;Steam&lt;&#x2F;a&gt;. &lt;br&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;des-bangers-de-sons&quot;&gt;Des bangers de sons&lt;&#x2F;h1&gt;
+&lt;p&gt;Parce que la BO reprend les musiques &lt;strong&gt;iconiques&lt;&#x2F;strong&gt; du webcomic, certaines créées par Toby &lt;em&gt;Radiation&lt;&#x2F;em&gt; Fox (ne l&#x27;appelez pas comme ça ou il vous tapera).&lt;&#x2F;p&gt;
+&lt;p&gt;[taxonomies]
+tags = [&quot;Megalovania was from Homestuck&quot;]&lt;&#x2F;p&gt;
+&lt;p&gt;[extra]
+toc = true
++++&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
         <title>Test exercice 1</title>
         <published>2024-12-04T00:00:00+00:00</published>
         <updated>2024-12-04T00:00:00+00:00</updated>
