@@ -5,6 +5,11 @@ description = "Un jeu Homestuck"
 date = 2024-12-04T00:00:00Z
 draft = false
 
+[taxonomies]
+tags = ["Megalovania was from Homestuck"]
+
+[extra]
+toc = true
 +++
 
 # Hiveswap, c'est quoi ?
@@ -18,11 +23,3 @@ draft = false
 # Des bangers de sons
 
 Parce que la BO reprend les musiques **iconiques** du webcomic, certaines créées par Toby *Radiation* Fox (ne l'appelez pas comme ça ou il vous tapera).
-
-
-[taxonomies]
-tags = ["Megalovania was from Homestuck"]
-
-[extra]
-toc = true
-+++
